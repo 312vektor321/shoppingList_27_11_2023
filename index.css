@@ -1,0 +1,15 @@
+:root {
+    --size: 30px;
+}
+
+.shoppingList {
+    --sIze: 500px;
+    color: red;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: black;
+    padding-top: var(--size);
+    padding-bottom: var(--size);
+    margin-left: var(--sIze);
+    margin-right: var(--sIze);
+}
